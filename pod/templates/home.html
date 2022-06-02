@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block title %}
+  home page
+{% endblock %}
+
+{% block content %}
+<body class="bosy">
+  <div class="trial">
+    <h1 class="pie">WELCOME TO THE FLASK POD</h1>
+    <span class="rt">The ultimate flask experience</span>
+    
+  </div>
+  <div>
+    <img src="/static/images/earbuds.svg">
+  </div>
+  <div class="ty">
+    <span>Pod by Jan</span>
+  </div>
+  <div class="new">
+    <a class="btn btn-dark" href="{{ url_for('pods_page') }}">Get Started</a>
+  </div>
+</body>
+
+{% endblock %}

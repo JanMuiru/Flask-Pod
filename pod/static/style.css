@@ -1,0 +1,46 @@
+.bosy{
+    background-color: aliceblue;
+}
+
+
+
+.trial{
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+   
+}
+.pie{
+    font-size: 80px !important;
+}
+.rt{
+    font-size: 35px;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width:20%;
+}
+.ty{
+    color: black;
+    font-size: 20px;
+    font-weight:200;
+    text-align: center;
+    margin-top: 20px;
+}
+.new{
+    text-align: center;
+    margin-top: 70px;
+   
+}
+
+/*register and login page adjustments*/
+#janfill{
+    background-color: aliceblue; 
+}
+.pdj{
+    margin-bottom: 20px;
+    font-weight:200;
+}
